@@ -1,4 +1,4 @@
-package org.studyeasy;
+package org.test;
 
 import java.io.IOException;
 import java.io.PrintWriter;
